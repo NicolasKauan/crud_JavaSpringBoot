@@ -1,4 +1,4 @@
-package model;
+package com.bn.crud.model;
 
 
 import jakarta.persistence.*;
